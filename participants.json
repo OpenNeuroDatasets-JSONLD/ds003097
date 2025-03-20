@@ -64,7 +64,8 @@
   "BMI": {
     "LongName": "Body mass index (rounded to nearest integer",
     "Units": "kilograms per squared meters",
-    "TermURL": "http://purl.bioontology.org/ontology/SNOMEDCT/60621009"
+    "TermURL": "http://purl.bioontology.org/ontology/SNOMEDCT/60621009",
+    "Description": "There should have been a description here, but there wasn't. :("
   },
   "handedness": {
     "Description": "Whether someone is left-handed, right-handed, or ambidextrous",
