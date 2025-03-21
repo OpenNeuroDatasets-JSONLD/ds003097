@@ -125,17 +125,7 @@
     "Description": "BAS reward scale"
   },
   "BIS": {
-    "Description": "BIS scale",
-    "Annotations": {
-      "IsAbout": {
-        "TermURL": "nb:Assessment",
-        "Label": ""
-      },
-      "IsPartOf": {
-        "TermURL": "cogatlas:trm_56a9137d9dce1",
-        "Label": ""
-      }
-    }
+    "Description": "BIS scale"
   },
   "STAI-T": {
     "Description": "Trait anxiety (from the STAI)"
